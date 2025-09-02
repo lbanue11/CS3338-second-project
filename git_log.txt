@@ -1,0 +1,65 @@
+commit 75aee9beb9bf3f96ae631b75bd4b17f6ea849ebe
+Merge: d3c4ca9 ae0999d
+Author: Leo Banuelos <lbanue11@calstatela.edu>
+Date:   Tue Sep 2 15:48:25 2025 -0700
+
+    Fixed merge conflict
+
+commit ae0999dd1525f753778ff454335319876e78befa
+Author: Leo Banuelos <lbanue11@calstatela.edu>
+Date:   Tue Sep 2 15:43:38 2025 -0700
+
+    Changed favorite game
+
+commit d3c4ca9f50bb5e493dcc8237d38772bbcb816d4f
+Merge: c6cffdb d462bdf
+Author: Leo Banuelos <lbanue11@calstatela.edu>
+Date:   Tue Sep 2 15:30:53 2025 -0700
+
+    Merge branch 'index-fix'
+
+commit d462bdf34e44e96bfc0f45d4739271d1baf526f8
+Author: Leo Banuelos <lbanue11@calstatela.edu>
+Date:   Tue Sep 2 15:30:12 2025 -0700
+
+    Added favorite video-game
+
+commit c6cffdb3225dcc002019cb62a085ab8fb2ab1fd7
+Author: Leo Banuelos <lbanue11@calstatela.edu>
+Date:   Tue Sep 2 15:26:29 2025 -0700
+
+    Added favorite food
+
+commit 4f88417b6401e9bd0a950f75c78d5f864fe43b70
+Merge: f070f75 8124107
+Author: Leo Banuelos <lbanue11@calstatela.edu>
+Date:   Tue Sep 2 14:57:47 2025 -0700
+
+    Merge branch 'main' of https://github.com/lbanue11/CS3338-second-project
+
+commit f070f755d200468deea1e7ee12b0bffc96bf157a
+Author: Leo Banuelos <lbanue11@calstatela.edu>
+Date:   Tue Sep 2 14:56:44 2025 -0700
+
+    Added README.me
+
+commit 812410722a57c0230a14ef4aedfb157a5c3f6349
+Merge: 1d2bfc0 454b17f
+Author: Leo Banuelos <lbanue11@calstatela.edu>
+Date:   Tue Sep 2 14:48:52 2025 -0700
+
+    Merge pull request #1 from lbanue11/info-fill
+    
+    Filled in blanks
+
+commit 454b17f4c2b36d42ea5a0cb972ae19fdaa047676
+Author: Leo Banuelos <lbanue11@calstatela.edu>
+Date:   Tue Sep 2 14:38:02 2025 -0700
+
+    Filled in blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
